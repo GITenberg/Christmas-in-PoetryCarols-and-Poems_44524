@@ -1,0 +1,25 @@
+_repo: Christmas-in-PoetryCarols-and-Poems_44524
+_version: 0.1.0
+contributor:
+  compiler:
+    agent_name: Carnegie Library School. Association
+    gutenberg_agent_id: '42750'
+    url: http://www.gutenberg.org/2009/agents/42750
+covers:
+- cover_type: generated
+  image_path: cover.png
+description: ''
+gutenberg_issued: '2013-12-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44524'
+  lccn: '23003205'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PN'
+- !lcsh 'Christmas poetry'
+title: 'Christmas in Poetry: Carols and Poems'
+url: http://www.gutenberg.org/ebooks/44524
